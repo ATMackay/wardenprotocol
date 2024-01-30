@@ -41,5 +41,5 @@ LICENSE for details. The repository is [REUSE](https://reuse.software/)
 compliant. The copyright owner are listed in the `.reuse/dep5` file or in the
 respective copyright notice.
 
-## Acknowledgment:
+## Acknowledgment
 This project extends its gratitude to the talented Qredo/Fusion developers whose innovative work and dedication have significantly influenced and inspired the development of this software. We appreciate their valuable contributions to the Fusion ecosystem, shaping the way for advancements in technology.
